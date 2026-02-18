@@ -15,7 +15,7 @@ Estudante de Ciência da Computação no Instituto Federal Catarinense (IFC) e f
 - **Ferramentas:** Git, GitHub, ambientes Windows e Linux.
 
 ## Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Fislipe&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fislipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 **Contato:** [LinkedIn]([link-do-seu-linkedin](https://www.linkedin.com/in/filipe-nunes-25aaa335b/?enhance=null)) | [Workana]([link-do-seu-workana](https://www.workana.com/freelancer/e9494846f3da21d75eefc84e6fabab83))
